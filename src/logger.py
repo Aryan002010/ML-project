@@ -1,11 +1,4 @@
 
-# this script is preparing a logging system that will save log messages into a file named with the current timestamp in the "logs" folder. The log file will 
-# contain information about each log message, including the timestamp, logger name, severity level, and the actual log message content.
-
-
-
-
-
 import logging 
 import os
 from datetime import datetime
